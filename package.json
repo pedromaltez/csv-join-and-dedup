@@ -1,0 +1,15 @@
+{
+  "name": "csv-join-and-dedup",
+  "version": "1.0.0",
+  "description": "Insert CSV files to join inside data folder a file",
+  "main": "index.js",
+  "dependencies": {
+    "csv": "^5.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro Maltez",
+  "license": "MIT"
+}
